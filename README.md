@@ -1,4 +1,4 @@
-<h1 align="center">Hello World, I'm Krishna Mohan Shah 👨‍💻</h1>
+<h1 align="center">Hello World, I'm <br><br> Krishna Mohan Shah 👨‍💻</h1>
 
 <h2 align="center">🌱 Full Stack Mobile Application Developer | Data Science Master | DevOps Enthusiast</h2>
 
