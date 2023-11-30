@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  As a full-stack developer, I conjure up mobile apps with a flick of my Flutter wand and summon backend spirits to do my bidding. With a Master's in Data Science, I can turn a pumpkin of data into a carriage of insights. And now, I'm plunging into the abyss of DevOps and Azure, not to find a lost city, but to make deployment pipelines as smooth as a dolphin's dance and cloud infrastructures as mighty as a kraken. So, buckle up — it's going to be a mythical ride through code and clouds! Something to contribute.
+  As a full-stack developer, I conjure up mobile apps with a flick of my Flutter wand and summon backend spirits to do my bidding. With a Master's in Data Science, I can turn a pumpkin of data into a carriage of insights. And now, I'm plunging into the abyss of DevOps and Azure, not to find a lost city, but to make deployment pipelines as smooth as a dolphin's dance and cloud infrastructures as mighty as a kraken. So, buckle up — it's going to be a mythical ride through code and clouds!
   <p align="center">
   <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 </p>
