@@ -1,6 +1,6 @@
 <h1 align="center">Hello World, I'm <br><br> Krishna Mohan Shah 👨‍💻</h1>
 
-<h2 align="center">🌱 Full Stack Mobile Application Developer | Data Science Master | DevOps Enthusiast</h2>
+<h2 align="center">🌱 AI Engineer | Full Stack Mobile Application Developer | DevOps Enthusiast</h2>
 
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300">
